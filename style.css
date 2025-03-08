@@ -27,13 +27,6 @@ html {
     font-size: 30px;
 }
 
-#biodata {
-    background: rebeccapurple;
-    width: 500px;
-    height: 500px;
-}
-
-
 .li-navbar:hover {
     background-color: rgb(165, 164, 80);
     transition: .2s ease-in-out;
